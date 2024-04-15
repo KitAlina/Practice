@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Session1</string>
+    <string name="but_next">Next</string>
+    <string name="but_skip">Skip</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
