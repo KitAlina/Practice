@@ -4,4 +4,15 @@
     <string name="but_skip">Skip</string>
     <string name="sign_in">Sign in</string>
     <string name="sign_up">Sign Up</string>
+    <string name="create">Create an account</string>
+    <string name="cre2">Complete the sign up process to get started</string>
+    <string name="fn">Full name</string>
+    <string name="phone">Phone Number</string>
+    <string name="email">Email Address</string>
+    <string name="pass">Password</string>
+    <string name="pass2">Confirm Password</string>
+    <string name="police">By ticking this box, you agree to our</string>
+    <string name="police2">conditions and private policy</string>
+    <string name="pol3">Terms and</string>
+    <string name="google_text">or sign in using</string>
 </resources>

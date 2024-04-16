@@ -4,4 +4,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="blue">#0560FA</color>
     <color name="no_col">#00FFFFFF</color>
+    <color name="grey">#A7A7A7</color>
+    <color name="warning_yellow">#EBBC2E</color>
 </resources>

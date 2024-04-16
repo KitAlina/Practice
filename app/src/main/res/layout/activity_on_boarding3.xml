@@ -36,7 +36,7 @@
                 android:layout_marginTop="60dp"/>
 
             <Button
-                android:id="@+id/button4"
+                android:id="@+id/signup"
                 android:layout_width="342dp"
                 android:layout_height="wrap_content"
                 android:text="@string/sign_up"
@@ -58,7 +58,7 @@
                     app:srcCompat="@drawable/text4" />
 
                 <Button
-                    android:id="@+id/button3"
+                    android:id="@+id/signin"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:backgroundTint="@color/no_col"
