@@ -33,7 +33,7 @@ public class OnBoarding3 extends AppCompatActivity {
         sign2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(OnBoarding3.this, Sign_up.class);
+                Intent intent = new Intent(OnBoarding3.this, Login_in.class);
                 startActivity(intent);
             }
         });

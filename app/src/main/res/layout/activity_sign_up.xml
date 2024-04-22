@@ -7,8 +7,8 @@
     android:layout_height="match_parent"
     tools:context=".Sign_up">
     <ScrollView
-        android:layout_width="409dp"
-        android:layout_height="729dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         tools:layout_editor_absoluteX="1dp"
         tools:layout_editor_absoluteY="1dp"
         android:fillViewport="true"
@@ -97,14 +97,14 @@
                 android:id="@+id/editTextTextEmailAddress"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:ems="10"
-                android:inputType="textEmailAddress"
-                android:text="***********@mail.com"
                 android:layout_marginBottom="8dp"
+                android:background="@android:drawable/editbox_background"
+                android:ems="10"
                 android:fontFamily="@font/roboto_medium"
+                android:inputType="textEmailAddress"
+                android:text="@string/edit_email"
                 android:textColor="@color/grey"
-                android:textSize="14dp"
-                android:background="@android:drawable/editbox_background"/>
+                android:textSize="14dp" />
 
             <TextView
                 android:id="@+id/textView5"
@@ -119,14 +119,14 @@
                 android:id="@+id/editTextTextPassword"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:ems="10"
-                android:inputType="textPassword"
                 android:layout_marginBottom="8dp"
+                android:background="@android:drawable/editbox_background"
+                android:ems="10"
                 android:fontFamily="@font/roboto_medium"
+                android:inputType="textPassword"
+                android:text="@string/edit_pass"
                 android:textColor="@color/grey"
-                android:text="**********"
-                android:textSize="14dp"
-                android:background="@android:drawable/editbox_background"/>
+                android:textSize="14dp" />
 
             <TextView
                 android:id="@+id/textView6"
@@ -145,7 +145,7 @@
                 android:ems="10"
                 android:fontFamily="@font/roboto_medium"
                 android:inputType="textPassword"
-                android:text="**********"
+                android:text="@string/edit_pass"
                 android:textColor="@color/grey"
                 android:textSize="14dp"
                 app:boxBackgroundMode="outline"
@@ -208,9 +208,9 @@
                 android:id="@+id/signup1"
                 android:layout_width="342dp"
                 android:layout_height="wrap_content"
-                android:text="@string/sign_up"
                 android:layout_marginTop="64dp"
-                android:backgroundTint="@color/blue"
+                android:backgroundTint="@color/grey"
+                android:text="@string/sign_up"
                 app:cornerRadius="4.69dp" />
 
             <LinearLayout
@@ -227,7 +227,7 @@
                     app:srcCompat="@drawable/text4" />
 
                 <Button
-                    android:id="@+id/sign_in"
+                    android:id="@+id/signIn3"
                     android:layout_width="52dp"
                     android:layout_height="38dp"
                     android:layout_marginLeft="1dp"

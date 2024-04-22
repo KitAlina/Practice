@@ -15,4 +15,23 @@
     <string name="police2">conditions and private policy</string>
     <string name="pol3">Terms and</string>
     <string name="google_text">or sign in using</string>
+    <string name="wb">Welcome Back</string>
+    <string name="wb1">Fill in your email and password to continue</string>
+    <string name="rp">Remember password</string>
+    <string name="fp">Forgot Password?</string>
+    <string name="edit_email">***********@mail.com</string>
+    <string name="edit_pass">**********</string>
+    <string name="log_in">or log in using</string>
+    <string name="FP">Forgot Password</string>
+    <string name="ent_fp">Enter your address</string>
+    <string name="s_otp">Send OTP</string>
+    <string name="rpass">Remember password? Back to</string>
+    <string name="otp_ver">OTP Verification</string>
+    <string name="otp1">Enter the  6 digit numbers sent to your email</string>
+    <string name="otp3">If you didn’t receive code</string>
+    <string name="snp">Set New Password</string>
+    <string name="new_pass">New Password</string>
+    <string name="enp">Enter New Password</string>
+    <string name="li">Log in</string>
+    <string name="logIn">Log in</string>
 </resources>
